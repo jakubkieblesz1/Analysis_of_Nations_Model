@@ -159,7 +159,6 @@ with open(filename, "w") as outfile:
 # This is how the file, countries_cleaned, is structured:
 # [country, population, GDP ($ per capita), GDP ($), literacy rate (%), phones per 1000]
 
-
 # Analysis of cleaned data set
 # Below is all the code that will allow users to select which data they want see.
 
